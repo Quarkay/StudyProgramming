@@ -3,7 +3,7 @@
 #Author: 一把杀猪刀 blog: www.mierhuo.com
 
 pat =  'abaabcac'
-' ####01122312'
+'   ####01122312'
 
 def get_nextArr(pat):
 	'get the next array of pattern that will be used in kmp algorithm'
